@@ -1,0 +1,33 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/IMG_1012.jpg"
+  links:
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/lauren.sapienza/
+    - icon: github
+      text: Github
+      href: https://github.com/laurensapienza
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/lauren-sapienza-160917222/
+    - icon: envelope
+      text: Email
+      href: "mailto:laurensapienza3901@gmail.com"
+
+---
+
+::: {#about-block}
+:::
+
+# Hello! My name is Lauren Sapienza
+
+I am currently a graduate student in Case Western Reserve University's Biomedical and Health Informatics Master's Program. I received my bachelor’s degree from the University of Dayton in 2023 with a major in biology and a minor in psychology. I have worked in clinical laboratories for over a year, with experience in blood banking and cord blood processing. I am interested in public health, healthcare access, and mental healthcare.
+
+Outside of my career and academics, I am passionate about sustainability and environmental justice; travel and cultural exchange; and LGBTQ+ rights. I have 5 cats: Luna, Sage, Belle, Finn, and Jinx. I enjoy reading, crafting, and playing video games in my free time.
+
+Thanks for visiting my website, please feel free to [contact me](mailto:laurensapienza3901@gmail.com) if you have any questions.
+
+

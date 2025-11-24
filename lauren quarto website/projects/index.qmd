@@ -1,0 +1,31 @@
+---
+title: Projects
+---
+
+## University of Dayton: River Stewards
+
+<img src="project_1_banner.jpg" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://udayton.edu/centers/fitz/rivers-institute.php', 'blank');"/>
+
+<a href="https://udayton.edu/centers/fitz/rivers-institute.php" target="_blank">River Steward's Website</a> | <a href="https://www.instagram.com/riversinstituteud/" target="_blank">Instagram</a><br>
+
+The River Stewards is the flagship program of the Rivers Institute. The three-year interdisciplinary program focused on leadership development and civic engagement is based on the model of learn, lead and serve.
+
+As a part of the 2023 cohort of River Stewards, I worked directly with the Dakota Center, a community center in Dayton, Ohio, to create educational programming focused on sustainability and watershed education. We also helped to physically restore some of their outdoor spaces, including community gardens.
+
+----
+
+## University of Dayton Cultural Immersion: Puerto Rico
+
+A week-long cultural immersion in Puerto Rico over spring break 2023, focused on service, environmental justice, and cultural exchange. Activities included hiking in El Yunque National Forest, recovering books from an abandoned library to give to local students, and travelling to the island of Culebra.
+
+----
+
+## GIS Project: Comparing Healthcare and Data Access in the US and Ireland
+
+My final project for PQHS 426: An Introduction to GIS for Health and Social Sciences at Case Western Reserve University, focused on comparing how healthcare access compares in Ohio and Ireland using GIS software to create maps. I also explored how accessing data differed for each country in 2025. If you are interested in seeing the project materials, please contact me [here](mailto:laurensapienza3901@gmail.com).
+
+----
+
+## Healthcare Management Project: Mock Proposal for Peerlift
+
+My final project for MPHP 439: Public Health Management and Policy at Case Western Reserve University, a mock proposal for Peerlift: a high school peer counseling program and on-campus center, in five Cuyahoga County public schools. If you are interested in seeing the project materials, please contact me [here](mailto:laurensapienza3901@gmail.com).
