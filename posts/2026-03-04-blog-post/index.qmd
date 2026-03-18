@@ -1,0 +1,19 @@
+---
+title: "Thoughts on *How to be a Modern Scientist*'s Career Advice"
+author:
+  - name: Lauren Sapienza
+    url: https://laurensapienza.github.io/
+    affiliation: Case Western Reserve University Biomedical and Health Informatics Master's Program
+date: 03-04-2026
+draft: false
+---
+
+# Thoughts on *How to be a Modern Scientist*'s Career Advice
+
+Although I am not planning on continuing in academia after I finish my master’s degree, I still found a lot of value in reading How to be a Modern Scientist by Jeffrey Leek. While Leek mentions that he doesn’t have much experience in industry, and thus does not want to generalize, his career advice got me to think more about what I want in the future. Since I began graduate school and started to gain more experience in bioinformatics, I have found myself interested in public health or industry. I love the idea of working in public health and being able to apply my data analysis skills to large populations and be able to help people on that scale. The idea of working in industry also appeals due to the variety of paths available and I like the idea of developing a particular skill set that I could bring to new jobs.
+
+As the job market rapidly changes due to generative AI, I think I’ve put myself in a good position by learning as much about machine learning as I can, as I believe it will be an essential skill for my career looking forward. I’ve personally been experiencing a lot of uncertainty when looking at jobs, so I want to take some of Leek’s advice and think on some of the questions he asks. For me, I think networking will be very important in finding a job in industry, however it is still scary to me. That is certainly something I would like to improve as I wrap up my degree, to become more comfortable networking and expand my network to find new opportunities. I would also like to develop my communication skills (which this blog is the start of) as it is another essential skill for industry or public health. I enjoy communicating complex ideas and visualizing data, as I think it makes science more accessible for nonscientists, but there is still a lot I could learn. I think How to be a Modern Scientist is a great read for anyone currently in graduate school, despite being almost 10 years old in a rapidly changing world, I think there is a lot of great advice to be had in it.
+
+# References
+
+Leek, J. (2016). *How to be a Modern Scientist.* Lean Publishing. <http://leanpub.com/modernscientist>.

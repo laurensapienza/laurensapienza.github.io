@@ -14,9 +14,33 @@ As a part of the 2023 cohort of River Stewards, I worked directly with the Dakot
 
 ----
 
-## University of Dayton Cultural Immersion: Puerto Rico
+## Statisics Projects
 
-A week-long cultural immersion in Puerto Rico over spring break 2023, focused on service, environmental justice, and cultural exchange. Activities included hiking in El Yunque National Forest, recovering books from an abandoned library to give to local students, and travelling to the island of Culebra.
+Projects created for PQHS 431 and 432, Statistical Methods I and II, at Case Western Reserve University. All projects were created using R and Quarto to produce reports in the form of HTML files.
+
+----
+
+### Average Poor Mental Health Days Increase from 2019 to 2025
+
+PQHS 431 project using CHR data in 5 states to compare means and create a linear model with one predictor. See the final report [here.](projectA-portfolio-report-LaurenSapienza.html)
+
+<img src="project_A_figure.jpg" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('projectA-portfolio-report-LaurenSapienza.html', 'blank');"/>
+
+----
+
+### Associations Between Prior Alcohol Abuse, Smoking and Depression
+
+Part one of a PQHS 431 project using NHANES data to compare means and analyze the association between categorical variables. See the final report [here.](projB_study1_LaurenSapienza.html)
+
+<img src="project_B1_figure.jpg" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('projB_study1_LaurenSapienza.html', 'blank');"/>
+
+----
+
+### A Model of Typical Weekday Sleeping Hours using Depression, Sex, and Race
+
+Part two of a PQHS 431 project using NHANES data to create two linear regression models, using 7 and 3 predictors respectively, then compare and validate the final model selected. See the final report [here.](projB_study2_LaurenSapienza.html)
+
+<img src="project_B2_figure.jpg" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('projB_study2_LaurenSapienza.html', 'blank');"/>
 
 ----
 
@@ -29,3 +53,11 @@ My final project for PQHS 426: An Introduction to GIS for Health and Social Scie
 ## Healthcare Management Project: Mock Proposal for Peerlift
 
 My final project for MPHP 439: Public Health Management and Policy at Case Western Reserve University, a mock proposal for Peerlift: a high school peer counseling program and on-campus center, in five Cuyahoga County public schools. If you are interested in seeing the project materials, please contact me [here](mailto:laurensapienza3901@gmail.com).
+
+----
+
+## University of Dayton Cultural Immersion: Puerto Rico
+
+A week-long cultural immersion in Puerto Rico over spring break 2023, focused on service, environmental justice, and cultural exchange. Activities included hiking in El Yunque National Forest, recovering books from an abandoned library to give to local students, and travelling to the island of Culebra.
+
+
