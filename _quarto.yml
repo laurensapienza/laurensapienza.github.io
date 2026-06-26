@@ -19,8 +19,6 @@ website:
         href: projects/index.qmd
       - text: "Resume"
         href: cv/index.qmd
-      - text: "Blog"
-        href: blog.qmd
     
     # your social media handles
     right:

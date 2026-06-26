@@ -2,29 +2,25 @@
 title: Projects
 ---
 
-## University of Dayton: River Stewards
-
-<img src="project_1_banner.jpg" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://udayton.edu/centers/fitz/rivers-institute.php', 'blank');"/>
-
-<a href="https://udayton.edu/centers/fitz/rivers-institute.php" target="_blank">River Steward's Website</a> | <a href="https://www.instagram.com/riversinstituteud/" target="_blank">Instagram</a><br>
-
-The River Stewards is the flagship program of the Rivers Institute. The three-year interdisciplinary program focused on leadership development and civic engagement is based on the model of learn, lead and serve.
-
-As a part of the 2023 cohort of River Stewards, I worked directly with the Dakota Center, a community center in Dayton, Ohio, to create educational programming focused on sustainability and watershed education. We also helped to physically restore some of their outdoor spaces, including community gardens.
-
-----
-
 ## Statisics Projects
 
 Projects created for PQHS 431 and 432, Statistical Methods I and II, at Case Western Reserve University. All projects were created using R and Quarto to produce reports in the form of HTML files.
 
 ----
 
-### Average Poor Mental Health Days Increase from 2019 to 2025
+### Predicting Depression Severity and How it Affects Normal Functioning
 
-PQHS 431 project using CHR data in 5 states to compare means and create a linear model with one predictor. See the final report [here.](projectA-portfolio-report-LaurenSapienza.html)
+PQHS 432 project using NHANES data to create poisson, negative binomial, and POLR models to investigate how different factors impact depression severity and functioning. See the final report [here.](432_projectB_LaurenSapienza.html)
 
-<img src="project_A_figure.jpg" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('projectA-portfolio-report-LaurenSapienza.html', 'blank');"/>
+<img src="project_432_B.jpg" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('432_projectB_LaurenSapienza.html', 'blank');"/>
+
+----
+
+### How Age and Education Level Predict Who is More Likely to Receive a Flu Shot
+
+PQHS 432 project using data from the 2024 BRFSS in Ohio to perform linear and logistic regression to investigate how different demographic and health factors impact who is more likely to receive a flu vaccine. See the final report [here.](432_projectA_LaurenSapienza.html)
+
+<img src="project_432_A.jpg" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('432_projectA_LaurenSapienza.html', 'blank');"/>
 
 ----
 
@@ -44,15 +40,61 @@ Part two of a PQHS 431 project using NHANES data to create two linear regression
 
 ----
 
+### Average Poor Mental Health Days Increase from 2019 to 2025
+
+PQHS 431 project using CHR data in 5 states to compare means and create a linear model with one predictor. See the final report [here.](projectA-portfolio-report-LaurenSapienza.html)
+
+<img src="project_A_figure.jpg" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('projectA-portfolio-report-LaurenSapienza.html', 'blank');"/>
+
+----
+
+### Practicum Project: Using AI to Alter Transcribed Text for use in Research
+
+Project developed during my practicum for using in the GIS Health & Hazards Lab at Case Western Reserve University. The code takes transcribed text from interviews and uses Google Gemini's 2.5 flash AI to change the language and sentence structure to make the text less identifiable so it can be used for academic research. See the python code [here.](TranscriptionAI.ipynb)
+
+<img src="practicum_proj.png" style="height: 100%; width: 100%">
+
+----
+
+### AI in Medicine Final Project
+
+My final project for PQHS 416: AI in Medicine at Case Western Reserve University, which uses a neural network to find diagnoses for different neurological disorders using clinical notes and test results. See the final report [here](PQHS416_project.pdf) and the python code [here.](PQHS416_project.ipynb)
+
+<img src="conf_matrix.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('PQHS416_project.pdf', 'blank');"/>
+
+----
+
+### AI in Medicine Final Project
+
+My final project for PQHS 413: Introduction to Data Structures and Algorithms in Python at Case Western Reserve University, in which I developed python code to perform multiple sequence alignment and create an attractive image of the result. See the final report [here](PQHS413_finalproject_LaurenSapienza.pdf) and the python code [here.](PQHS413_finalproject_LaurenSapienza.ipynb)
+
+<img src="msa.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('PQHS413_finalproject_LaurenSapienza.pdf', 'blank');"/>
+
+----
+
 ## GIS Project: Comparing Healthcare and Data Access in the US and Ireland
 
 My final project for PQHS 426: An Introduction to GIS for Health and Social Sciences at Case Western Reserve University, focused on comparing how healthcare access compares in Ohio and Ireland using GIS software to create maps. I also explored how accessing data differed for each country in 2025. If you are interested in seeing the project materials, please contact me [here](mailto:laurensapienza3901@gmail.com).
+
+<img src="gis_project.png" style="height: 100%; width: 100%">
 
 ----
 
 ## Healthcare Management Project: Mock Proposal for Peerlift
 
-My final project for MPHP 439: Public Health Management and Policy at Case Western Reserve University, a mock proposal for Peerlift: a high school peer counseling program and on-campus center, in five Cuyahoga County public schools. If you are interested in seeing the project materials, please contact me [here](mailto:laurensapienza3901@gmail.com).
+My final project for MPHP 439: Public Health Management and Policy at Case Western Reserve University, a mock proposal for Peerlift: a high school peer counseling program and on-campus center, in five Cuyahoga County public schools. See the final report [here](Managment_Project.pdf).
+
+----
+
+## University of Dayton: River Stewards
+
+<img src="project_1_banner.jpg" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://udayton.edu/centers/fitz/rivers-institute.php', 'blank');"/>
+
+<a href="https://udayton.edu/centers/fitz/rivers-institute.php" target="_blank">River Steward's Website</a> | <a href="https://www.instagram.com/riversinstituteud/" target="_blank">Instagram</a><br>
+
+The River Stewards is the flagship program of the Rivers Institute. The three-year interdisciplinary program focused on leadership development and civic engagement is based on the model of learn, lead and serve.
+
+As a part of the 2023 cohort of River Stewards, I worked directly with the Dakota Center, a community center in Dayton, Ohio, to create educational programming focused on sustainability and watershed education. We also helped to physically restore some of their outdoor spaces, including community gardens.
 
 ----
 
